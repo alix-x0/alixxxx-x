@@ -1,4 +1,4 @@
-#  Hi, I'm alix
+#  Hi, I'm ali
 
 ##  GitHub Overview
 Full-stack developer & game dev in progress  
